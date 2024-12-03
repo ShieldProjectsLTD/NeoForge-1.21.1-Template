@@ -5,8 +5,7 @@ The NeoForge Mod Template - For an easier start!
 
 --------------
 
-# EN-US Instruction
-==========
+# # EN-US Instruction
 This repository is like a Template. You can clone it directly to get started with the new
 mod. It's a great and fast start!  
 Once you have the project ready, just open the repository in the IDE of your choice.  
@@ -63,8 +62,7 @@ NeoForged Discord: https://discord.neoforged.net/
 --------------
 
 
-# RU-RU Инструкция
-==========
+# # RU-RU Инструкция
 Этот репозиторий является как Шаблон. Можно напрямую клонировать, чтобы начать работу с новым
 модом. Это прекрасный и быстрый старт!  
 Как только у вас будет готов проект, просто откройте репозиторий в IDE по вашему выбору.  
